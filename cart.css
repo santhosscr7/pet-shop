@@ -1,0 +1,11 @@
+.cart
+{
+    background-image: url(images/bg-pet.jpg);
+    margin-top: -200px;
+    margin-left: -200px;
+    height: 600px;
+}
+.table,tr,th,td{
+    width: 500px;
+    text-align: center;
+}
